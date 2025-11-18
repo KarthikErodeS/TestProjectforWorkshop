@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Which of these are valid Python variable names?",
+    "choices": [
+      {"text": "_my_var", "is_correct": true},
+      {"text": "2ndVar", "is_correct": false},
+      {"text": "var_2", "is_correct": true},
+      {"text": "my-var", "is_correct": false}
+    ]
+  },
+  {
+    "question": "What does the 'len' function do?",
+    "choices": [
+      {"text": "Returns the length of an object", "is_correct": true},
+      {"text": "Returns the type of an object", "is_correct": false},
+      {"text": "Returns the value of an object", "is_correct": false}
+    ]
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "choices": [
+      {"text": "def", "is_correct": true},
+      {"text": "func", "is_correct": false},
+      {"text": "function", "is_correct": false}
+    ]
+  },
+  {
+    "question": "Select all built-in Python data types.",
+    "choices": [
+      {"text": "list", "is_correct": true},
+      {"text": "dict", "is_correct": true},
+      {"text": "array", "is_correct": false},
+      {"text": "set", "is_correct": true}
+    ]
+  },
+  {
+    "question": "What is the output of print(3 * 'ab')?",
+    "choices": [
+      {"text": "ababab", "is_correct": true},
+      {"text": "ab3", "is_correct": false},
+      {"text": "Error", "is_correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following are valid ways to import the math module?",
+    "choices": [
+      {"text": "import math", "is_correct": true},
+      {"text": "from math import *", "is_correct": true},
+      {"text": "include math", "is_correct": false},
+      {"text": "using math", "is_correct": false}
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run FastAPI app",
+			"type": "shell",
+			"command": "D:/GroupoColono/.venv/Scripts/python.exe -m uvicorn main:app --reload",
+			"args": [],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run FastAPI app",
+			"type": "shell",
+			"command": "D:/GroupoColono/.venv/Scripts/python.exe -m uvicorn main:app --reload",
+			"args": [],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run FastAPI app",
+			"type": "shell",
+			"command": "D:/GroupoColono/.venv/Scripts/python.exe -m uvicorn main:app --reload",
+			"args": [],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run FastAPI app",
+			"type": "shell",
+			"command": "D:/GroupoColono/.venv/Scripts/python.exe -m uvicorn main:app --reload",
+			"args": [],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
